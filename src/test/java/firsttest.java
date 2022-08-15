@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.*;
 
-public class Nicktest {
+public class Firsttest {
     @BeforeAll
     static void beforeall() {
         System.out.println("This is before method");
