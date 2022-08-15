@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="firsttest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-08-15T14:02:11" hostname="KIE-W-L-0809" time="0.017">
+  <properties/>
+  <testcase name="firsttest()" classname="firsttest" time="0.014"/>
+  <testcase name="secondtest()" classname="firsttest" time="0.002"/>
+  <system-out><![CDATA[This is before method
+open https://www.google.com/search?q=google&rlz=1C1GCEA_enUA988UA988&oq=google&aqs=chrome..69i57j46i131i199i433i465i512j0i131i433i512l2j69i60l4.3336j0j7&sourceid=chrome&ie=UTF-8
+first test() 
+takeScreen();
+open https://www.google.com/search?q=google&rlz=1C1GCEA_enUA988UA988&oq=google&aqs=chrome..69i57j46i131i199i433i465i512j0i131i433i512l2j69i60l4.3336j0j7&sourceid=chrome&ie=UTF-8
+second test()
+takeScreen();
+This is after all methods!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
